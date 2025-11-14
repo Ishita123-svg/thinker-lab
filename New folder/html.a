@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>mixed list</title>
+</head>
+<body>
+<h2>XYZ education institude</h2>
+<UL type="circle">
+<LI>junior college</LI>
+<OL type="A">
+<LI>11th</LI>
+<OL>
+</body>
+</html>
